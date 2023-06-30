@@ -1,2 +1,2 @@
-# Clothing-Shop-Online
+# Shop-Online
 solo project
